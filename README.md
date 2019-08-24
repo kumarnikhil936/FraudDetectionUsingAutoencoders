@@ -18,3 +18,4 @@ https://bit.ly/2EFaVHC
 https://bit.ly/2Ygab6C
 https://bit.ly/2s2T6xr
 
+![Plot of reconstruction loss, Data instances above the red threhold are classified as fraudulent transactions](https://miro.medium.com/max/846/1*Qx9SYp04dkhf4YOHNfg2iA.png)
