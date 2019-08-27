@@ -13,7 +13,7 @@ The same task is done using two different frameworks:
 
 Since the dataset is highly imbalanced, we see a good accuracy but bad precision and recall value. 
 
-Reference links:
+Credits and reference links:
 https://bit.ly/2EFaVHC
 https://bit.ly/2Ygab6C
 https://bit.ly/2s2T6xr
